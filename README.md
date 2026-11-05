@@ -4,11 +4,12 @@
 <p align="center">
   <img
     src="cozy-banner.gif"
-    width="100%"
+    width="70%"
+    height="50%"
     alt="Cozy animated pixel-art coding workspace"
   />
 </p>
-<h2 align="center">🌙 Hey there! I'm Ayesha Faryal</h2>
+<h2 align="center">🍩 Hey there! I'm Ayesha Faryal</h2>
 
 <p align="center">
   <b>AI Undergraduate @ FAST-NUCES | 5th Semester</b>
