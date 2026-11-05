@@ -4,8 +4,8 @@
 <p align="center">
   <img
     src="cozy-banner.gif"
-    width="70%"
-    height="50%"
+    width="100%"
+    height="20%"
     alt="Cozy animated pixel-art coding workspace"
   />
 </p>
