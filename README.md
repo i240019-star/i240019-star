@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <i>Building intelligent things, one line of code at a time.</i>
+  <b><i>Building intelligent things.</i></b>
 </p>
 
 ---
@@ -52,6 +52,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,mysql&theme=dark" />
 </p>
+
 
 <p align="center">
   <code>Assembly</code> · <code>Git</code> · <code>GitHub</code>
