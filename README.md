@@ -52,8 +52,19 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,mysql&theme=dark" />
 </p>
+### 🛠️ My Digital Toolbox
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,mysql,docker,fastapi,jupyter&theme=dark" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+</p>
+
+<p align="center">
+  <code>Assembly</code> · <code>Git</code> · <code>GitHub</code>
+</p>
 <p align="center">
   <code>Assembly</code> · <code>Git</code> · <code>GitHub</code>
 </p>
