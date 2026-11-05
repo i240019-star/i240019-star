@@ -9,7 +9,7 @@
     alt="Cozy animated pixel-art coding workspace"
   />
 </p>
-<h2 align="center">🍩 Hey there! I'm Ayesha Faryal</h2>
+<h2 align="center">🍩 Hey there! I'm Ayesha Faryal.</h2>
 
 <p align="center">
   <b>AI Undergraduate @ FAST-NUCES | 5th Semester</b>
@@ -67,22 +67,7 @@
 </tr>
 </table>
 
-### 📊 My GitHub Corner
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=i240019-star&show_icons=true&theme=tokyonight&bg_color=191724&hide_border=true&title_color=ebbcba&icon_color=c4a7e7"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i240019-star&layout=compact&theme=tokyonight&bg_color=191724&hide_border=true&title_color=ebbcba"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=i240019-star&theme=tokyonight&hide_border=true&background=191724&ring=ebbcba&fire=eb6f92"/>
-</p>
-
----
-
-<div align="center">
-
-### 🌷 Thanks for visiting my little corner!
+### Thanks for visiting my little corner!✨🎀
 
 *"Dream. Code. Create. Repeat."*
 
