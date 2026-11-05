@@ -1,9 +1,13 @@
 <!-- Upload your cropped pixel-art header to assets/pixel-banner.png -->
 
 <div align="center">
-  <img src="assets/pixel-banner.png" width="100%" alt="Ayesha's pixel art coding workspace"/>
-</div>
-
+<p align="center">
+  <img
+    src="cozy-banner.gif"
+    width="100%"
+    alt="Cozy animated pixel-art coding workspace"
+  />
+</p>
 <h2 align="center">🌙 Hey there! I'm Ayesha Faryal</h2>
 
 <p align="center">
