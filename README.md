@@ -60,9 +60,6 @@
 <p align="center">
   <code>Assembly</code> · <code>Git</code> · <code>GitHub</code>
 </p>
-<p align="center">
-  <code>Assembly</code> · <code>Git</code> · <code>GitHub</code>
-</p>
 
 ### 🧠 Things That Fascinate Me
 
