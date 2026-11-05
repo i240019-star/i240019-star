@@ -50,11 +50,6 @@
 ### 🛠️ My Digital Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,mysql&theme=dark" />
-</p>
-### 🛠️ My Digital Toolbox
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,mysql,docker,fastapi,jupyter&theme=dark" />
 </p>
 
